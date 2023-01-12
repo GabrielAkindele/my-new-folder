@@ -1,2 +1,6 @@
 // --my git--
-console.log("myApp");
+const printName = () => {
+  console.log("myApp");
+};
+
+printName();
