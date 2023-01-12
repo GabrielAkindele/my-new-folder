@@ -1,0 +1,11 @@
+{
+  "name": "akindele",
+  "version": "1.0.0",
+  "description": "my test package",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "gabriel",
+  "license": "ISC"
+}
